@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reseau>
+	<noeud id="26316513" latitude="45.757706" longitude="4.870082" />
+	<noeud id="26079655" latitude="45.757935" longitude="4.8685865" />
+	<noeud id="26057085" latitude="45.756638" longitude="4.8683963" />
+	
+	<troncon destination="26316513" longueur="118.77753"
+		nomRue="Rue Antoine Charial" origine="26079655" />
+	<troncon destination="26079655" longueur="118.77753"
+		nomRue="Rue Antoine Charial" origine="26316513" />
+	
+	<troncon destination="26057085" longueur="145.00984"
+		nomRue="Rue Turbil" origine="26079655" />
+	<troncon destination="26079655" longueur="145.00984"
+		nomRue="Rue Turbil" origine="26057085" />
+</reseau>

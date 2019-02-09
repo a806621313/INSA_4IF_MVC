@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reseau>
+	<noeud id="1" latitude="0.0" longitude="0.0" />
+	<noeud id="2" latitude="1.0" longitude="1.5" />
+	<noeud id="3" latitude="1.0" longitude="3.5" />
+	<noeud id="4" latitude="0.0" longitude="5.0" />
+	<noeud id="5" latitude="0.0" longitude="2.5" />
+	<noeud id="6" latitude="2.0" longitude="2.5" />
+	<noeud id="7" latitude="0.5" longitude="3.5" />
+	<noeud id="8" latitude="0" longitude="3.5" />
+	<noeud id="9" latitude="0.9" longitude="3.7" />
+	
+	<troncon destination="2" longueur="2.5"
+		nomRue="Rue Danton" origine="1" />
+	<troncon destination="3" longueur="2.0"
+		nomRue="Rue de l'Abondance" origine="2" />
+	<troncon destination="4" longueur="2.5"
+		nomRue="Rue Danton" origine="3" />
+	<troncon destination="5" longueur="2.5"
+		nomRue="Rue Danton" origine="1" />
+		
+	<troncon destination="7" longueur="1.5"
+		nomRue="Rue Danton" origine="5" />
+	<troncon destination="8" longueur="1.0"
+		nomRue="Rue Danton" origine="5" />
+	<troncon destination="9" longueur="1.0"
+		nomRue="Rue Danton" origine="5" />
+		
+	<troncon destination="4" longueur="1.0"
+		nomRue="Rue Danton" origine="7" />
+	<troncon destination="4" longueur="1.0"
+		nomRue="Rue Danton" origine="8" />
+	<troncon destination="4" longueur="1.5"
+		nomRue="Rue Danton" origine="9" />	
+	
+	<troncon destination="6" longueur="3.0"
+		nomRue="Rue Danton" origine="1" />
+	<troncon destination="4" longueur="3.0"
+		nomRue="Rue Danton" origine="6" />
+	
+	
+	
+</reseau>

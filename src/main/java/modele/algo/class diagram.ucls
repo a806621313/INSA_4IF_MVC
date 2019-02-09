@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="modele.algo.AEtoile" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/AEtoile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="118" x="1035" y="230"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="modele.algo.TSP" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/TSP.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="176" x="643" y="137"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="modele.algo.TSPSimple" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/TSPSimple.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="178" x="641" y="317"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="modele.algo.IteratorSeq" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/IteratorSeq.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="149" x="844" y="315"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="modele.algo.OutilTSP" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/OutilTSP.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="153" x="846" y="230"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="modele.algo.TemplateTSP" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/TemplateTSP.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="182" x="640" y="226"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="modele.algo.Paire" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/algo/Paire.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="164" x="845" y="137"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="8">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="10">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="11" name="instance">        
+        <position height="0" width="0" x="983" y="159"/>      
+      </attribute>      
+      <multiplicity id="12" minimum="0" maximum="1">        
+        <position height="0" width="0" x="983" y="159"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="vue.handler" project="optimodLyon" file="/optimodLyon/src/main/java/vue/handler" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="130" width="179" x="101" y="110"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="vue.handler.GroupHandler" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/handler/GroupHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="146" x="119" y="175"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="3" language="java" name="vue.element" project="optimodLyon" file="/optimodLyon/src/main/java/vue/element" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="274" width="456" x="463" y="161"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="vue.element.EntrepotVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/EntrepotVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="130" x="589" y="213"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="vue.element.TronconVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/TronconVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="116" x="468" y="269"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="vue.element.PointLivraisonVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/PointLivraisonVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="160" x="588" y="270"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="vue.element.LivraisonPane" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/LivraisonPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="124" x="755" y="270"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="vue.element.IntersectionNormalVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/IntersectionNormalVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="155" x="722" y="212"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="vue.element.TourneeVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/TourneeVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="116" x="469" y="212"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="10" language="java" name="vue" project="optimodLyon" file="/optimodLyon/src/main/java/vue" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="285" width="372" x="28" y="285"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <enumeration id="11" language="java" name="vue.ETAT" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/ApplicationDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="119" x="36" y="338"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="12" language="java" name="vue.VueGraphique" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/VueGraphique.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="109" x="263" y="477"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="vue.VueTextuelle" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/VueTextuelle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="231" y="343"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="vue.ApplicationDemo" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/ApplicationDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="144" x="48" y="476"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="vue.element.VeloVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/VeloVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="182" x="713" y="361"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="16">    
+    <bendpoint x="183" y="370"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="17" name="parent">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="18" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <bendpoint x="512" y="476"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="20" name="deplacerPointChoisiUn">        
+        <position height="19" width="131" x="423" y="450"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <bendpoint x="906" y="503"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="23" name="velo"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="26" name="compagnie">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <bendpoint x="548" y="392"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="29" name="parent"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <bendpoint x="668" y="502"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="32" name="deplacerPointChoisiDeux">        
+        <position height="19" width="143" x="589" y="464"/>      
+      </attribute>      
+      <multiplicity id="33" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <bendpoint x="761" y="502"/>    
+    <bendpoint x="760" y="330"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="35" name="ajoutPointChoisi">        
+        <position height="19" width="95" x="727" y="471"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <bendpoint x="450" y="100"/>    
+    <bendpoint x="909" y="101"/>    
+    <bendpoint x="937" y="296"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="38" name="infoParLivraison">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="41" name="graph">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <bendpoint x="449" y="239"/>    
+    <bendpoint x="450" y="124"/>    
+    <bendpoint x="800" y="124"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="44" name="ajoutInterChoisi">        
+        <position height="18" width="81" x="716" y="129"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="182" y="370"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="47" name="texte">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="48" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="50" name="compagnie">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="51" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="53" name="parent">        
+        <position height="18" width="39" x="209" y="538"/>      
+      </attribute>      
+      <multiplicity id="54" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

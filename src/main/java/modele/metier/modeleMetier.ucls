@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="modele.metier.Chemin" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Chemin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1098" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="modele.metier.Entrepot" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Entrepot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="793" y="790"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="modele.metier.Tournee" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Tournee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1059" y="-83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="modele.metier.IntersectionNormal" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/IntersectionNormal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1315" y="850"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="modele.metier.Intersection" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Intersection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="924" y="460"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="modele.metier.DemandeLivraison" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/DemandeLivraison.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="525" y="469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="modele.metier.Plan" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Plan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1804" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="modele.metier.PointLivraison" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/PointLivraison.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="525" y="808"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="modele.metier.Troncon" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Troncon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1241" y="388"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="modele.metier.Chemin" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Chemin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1098" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="modele.metier.Entrepot" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Entrepot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="793" y="790"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="modele.metier.Tournee" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Tournee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1059" y="-83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="modele.metier.IntersectionNormal" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/IntersectionNormal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1315" y="850"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="modele.metier.Intersection" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Intersection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="924" y="460"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="modele.metier.DemandeLivraison" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/DemandeLivraison.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="525" y="469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="modele.metier.Plan" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Plan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1804" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="modele.metier.PointLivraison" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/PointLivraison.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="525" y="808"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="modele.metier.Troncon" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/modele/metier/Troncon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1241" y="388"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="19">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="20" name="destination">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="23" name="listeIntersections">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="24" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="26" name="listeChemins">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="29" name="entrepots">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="30" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="33" name="intersectionNormals">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="36">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="37" name="livraisons">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="38" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="41" name="listeTroncons">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="44" name="origine">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

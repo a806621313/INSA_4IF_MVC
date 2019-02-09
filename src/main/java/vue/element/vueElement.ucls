@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="vue.element.TronconVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/TronconVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="288" x="556" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="vue.element.PointLivraisonVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/PointLivraisonVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="389" width="302" x="884" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="vue.element.LivraisonPane" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/LivraisonPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="135" x="1226" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="vue.element.EntrepotVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/EntrepotVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="242" x="1401" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="vue.element.IntersectionNormalVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/IntersectionNormalVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="299" width="297" x="1683" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="vue.element.TourneeVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/TourneeVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="320" x="2020" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="vue.element.VeloVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/VeloVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="182" x="2380" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="vue.element.TronconVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/TronconVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="288" x="556" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="vue.element.PointLivraisonVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/PointLivraisonVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="389" width="302" x="884" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="vue.element.LivraisonPane" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/LivraisonPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="135" x="1226" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="vue.element.EntrepotVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/EntrepotVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="242" x="1401" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="vue.element.IntersectionNormalVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/IntersectionNormalVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="299" width="297" x="1683" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="vue.element.TourneeVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/TourneeVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="320" x="2020" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="vue.element.VeloVue" project="optimodLyon" 
+    file="/optimodLyon/src/main/java/vue/element/VeloVue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="182" x="2380" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
